@@ -1,5 +1,6 @@
 # webd1
 push1
 
+half built
 
-deploy in netlify
+deployed - https://webd1.netlify.app/#
